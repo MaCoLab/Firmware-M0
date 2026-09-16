@@ -1,12 +1,8 @@
 
 # NFC FUCKER  // FLASHER (INFO ED INFORMATIVA)
 
-Questa repo contiene una web page con strumenti di calcolo e flasher automatico per il tuo ESP32-C3 con l'ultimo firmware stabile del NFC F*CKER usando **ESP Web Tools** e la **Web Serial API**, protetta da password.
+Questa repo contiene  l'ultimo firmware stabile del NFC F*CKER per ESP32-C3 usando **ESP Web Tools** e la **Web Serial API**, protetta da password.
 
-## Browser supportati:
-
-- Google Chrome
-- Tutti gli altri browser basati su google chrome (Brave, Microsoft Edge, etc.)
 
 ## Dispositivi supportati:
 
@@ -16,13 +12,13 @@ Questa repo contiene una web page con strumenti di calcolo e flasher automatico 
 
 In questa repo non troverete il progetto completo con i pinout da utilizzare o i moduli impiegati, ma solo ed esclusivamente il firmware in formato binario. 
 
-## Attenzione, la web page è protetta da password
+## Attenzione, la web page per il flasher del firmware è protetta da password
 
 La password per accedere all'interfaccia non è pubblica.
 
 # AVVISO IMPORTANTE (INFORMATIVA)
 
-## Questo strumento di calcolo delle chiavi, e l'intero progetto (firmware incluso), è fornito ESCLUSIVAMENTE A SCOPO INFORMATIVO ED EDUCATIVO.
+## L'intero progetto (firmware incluso), è fornito ESCLUSIVAMENTE A SCOPO INFORMATIVO ED EDUCATIVO.
 
 Il progetto è stato sviluppato per:
 
@@ -73,7 +69,7 @@ Qualsiasi utilizzo improprio dello strumento è di esclusiva responsabilità del
 ## 🇬🇧 ENGLISH
 ## IMPORTANT NOTICE
 
-This key calculation tool and firmware is provided EXCLUSIVELY FOR INFORMATIONAL AND EDUCATIONAL PURPOSES.
+This firmware is provided EXCLUSIVELY FOR INFORMATIONAL AND EDUCATIONAL PURPOSES.
 
 The project was developed to:
 
