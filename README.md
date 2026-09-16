@@ -1,5 +1,5 @@
 
-# NFC FUCKER  // FLASHER (INFO ED INFORMATIVA)
+# NFC F*CKER  // FIRMWARE & TOOL (INFO ED INFORMATIVA)
 
 Questa repo contiene  l'ultimo firmware stabile del NFC F*CKER per ESP32-C3 usando **ESP Web Tools** e la **Web Serial API**, protetta da password.
 
