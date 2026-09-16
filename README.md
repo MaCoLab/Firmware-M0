@@ -12,7 +12,7 @@ Questa repo contiene  l'ultimo firmware stabile del NFC F*CKER per ESP32-C3 usan
 
 In questa repo non troverete il progetto completo con i pinout da utilizzare o i moduli impiegati, ma solo ed esclusivamente il firmware in formato binario. 
 
-## Attenzione, la web page per il flasher del firmware è protetta da password
+## Attenzione, la web page per il flasher del firmware non è pubblica ed è protetta da password
 
 La password per accedere all'interfaccia non è pubblica.
 
