@@ -1,5 +1,5 @@
 
-# NFC F*CKER  // FIRMWARE & TOOL (INFO ED INFORMATIVA)
+# MACOZERO // FIRMWARE & TOOL (INFO ED INFORMATIVA)
 
 Questa repo contiene  l'ultimo firmware stabile del NFC F*CKER per ESP32-C3 usando **ESP Web Tools** e la **Web Serial API**, protetta da password.
 
@@ -24,7 +24,7 @@ Il progetto è stato sviluppato per:
 
 Approfondire la conoscenza dei sistemi di sicurezza delle smartcard Mifare Classic
 
-Supportare attività di ricerca e studio nel campo della sicurezza informatica
+Supportare attività di ricerca e studio nel campo della sicurezza informatica (NFC, WIFI E BLUETOOTH)
 
 Assistere tecnici autorizzati nel recupero di chiavi smarrite su sistemi di proprietà
 
