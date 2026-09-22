@@ -1,7 +1,7 @@
 
 # MACOZERO // FIRMWARE & TOOL (INFO ED INFORMATIVA)
 
-Questa repo contiene  l'ultimo firmware stabile del NFC F*CKER per ESP32-C3 usando **ESP Web Tools** e la **Web Serial API**, protetta da password.
+Questa repo contiene  l'ultimo firmware stabile del MaCoZero per ESP32-C3 usando **ESP Web Tools** e la **Web Serial API**, protetta da password.
 
 
 ## Dispositivi supportati:
