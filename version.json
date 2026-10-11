@@ -1,5 +1,5 @@
 {
-  "version": "2.1.4",
+  "version": "2.1.5",
   "url": "https://raw.githubusercontent.com/MaCoLab/Firmware-M0/main/fw.bin",
-  "notes": "Fix bug e calcoli e Aggiunto DADO in ALTRO."
+  "notes": "Nuovo menu e contatore nella web page (wifiap)."
 }
