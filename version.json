@@ -1,5 +1,5 @@
 {
-  "version": "2.1.5",
+  "version": "2.1.7",
   "url": "https://raw.githubusercontent.com/MaCoLab/Firmware-M0/main/fw.bin",
-  "notes": "Nuovo menu e contatore nella web page (wifiap)."
+  "notes": "Migliorie di navigazione e animazioni."
 }
