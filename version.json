@@ -1,5 +1,5 @@
 {
   "version": "2.1.8",
   "url": "https://raw.githubusercontent.com/MaCoLab/Firmware-M0/main/fw.bin",
-  "notes": "Migliorie di navigazione e animazioni."
+  "notes": "Correzione calcoli e scrittura"
 }
